@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/include/python3.7m"
+            ],
+            "macFrameworkPath": [],
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#023605",
+        "titleBar.activeBackground": "#034C07",
+        "titleBar.activeForeground": "#F0FEF1"
+    },
+    "files.associations": {
+        "*.с": "c",
+        "stdbool.h": "c",
+        "__locale": "c"
+    },
+    "cSpell.words": [
+        "Eratosthenes"
+    ]
+}
